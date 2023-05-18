@@ -1,4 +1,4 @@
-// Afham Bashir. 
+
 //Lottery
 #include <iostream>
 #include <cstdlib>                    //allows us to use randomizing function. 
